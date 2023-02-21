@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+table{
+    width: 80%;
+    border: 1px solid grey;
+    border-radius: 10px;
+    border-spacing: 0;
+    margin: 72px 84px;
+    overflow: hidden;
+
+}
+td,th{
+
+    border: 1px solid black;
+    text-align: center;
+    background-color: rgb(222, 173, 173);
+}
